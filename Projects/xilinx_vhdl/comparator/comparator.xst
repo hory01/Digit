@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/oliverb/Desktop/VHDL/comparator/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/oliverb/Desktop/VHDL/comparator/xst"
+elaborate
+-ifn comparator.prj
+-ifmt mixed

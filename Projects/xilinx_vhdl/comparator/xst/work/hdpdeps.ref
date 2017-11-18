@@ -1,0 +1,14 @@
+V3 7
+FL C:/Users/oliverb/Desktop/VHDL/comparator/comparator.vhd 2017/11/18.20:58:06 O.61xd
+EN work/comparator 1511035736 \
+      FL C:/Users/oliverb/Desktop/VHDL/comparator/comparator.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/comparator/Behavioral 1511035737 \
+      FL C:/Users/oliverb/Desktop/VHDL/comparator/comparator.vhd \
+      EN work/comparator 1511035736
+FL C:/Users/oliverb/Desktop/VHDL/comparator/top.vhd 2017/11/18.21:08:50 O.61xd
+EN work/top 1511035738 FL C:/Users/oliverb/Desktop/VHDL/comparator/top.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/top/Behavioral 1511035739 \
+      FL C:/Users/oliverb/Desktop/VHDL/comparator/top.vhd EN work/top 1511035738 \
+      CP comparator
