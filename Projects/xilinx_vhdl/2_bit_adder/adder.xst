@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/oliverb/Desktop/VHDL/Adder/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/oliverb/Desktop/VHDL/Adder/xst"
+elaborate
+-ifn adder.prj
+-ifmt mixed
