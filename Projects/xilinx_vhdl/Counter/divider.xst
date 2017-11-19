@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/oliverb/Desktop/VHDL/Counter/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/oliverb/Desktop/VHDL/Counter/xst"
+elaborate
+-ifn divider.prj
+-ifmt mixed
